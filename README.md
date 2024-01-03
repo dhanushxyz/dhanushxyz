@@ -8,7 +8,7 @@
 - 💬 Ask me about **MERN,Redux,ElrctronJS**
 
 - 📫 How to reach me **dhanushxyz130@gmail.com**
-<p margin="0 0 20 0"></p>
+<p margin="120"></p>
 <p align="left">
 <a href="https://linkedin.com/in/dhanush-m02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-m02" height="30" width="40" /></a>
 <a href="https://instagram.com/dhanushh__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanushh__m" height="30" width="40" /></a>
