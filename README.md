@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">A passionate software developer from Bangalore</h3>
+<h1 align="left">Hi 👋, I'm Dhanush</h1>
+<h2 align="left">A passionate software developer from Bangalore</h2>
 
 - 🌱 I’m currently learning **Rust,Web3,Docker**
 
